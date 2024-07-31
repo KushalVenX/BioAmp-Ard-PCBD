@@ -1,7 +1,7 @@
 # Repository Overview
 
 
-<img src="https://github.com/KushalVenX/BioAmp-Ard-PCBD/blob/main/IMAGES/Routing.png" width="400" />  <img src="https://github.com/KushalVenX/BioAmp-Ard-PCBD/blob/main/IMAGES/3Dview.png" width="300" />
+<img src="https://github.com/KushalVenX/BioAmp-Ard-PCBD/blob/main/IMAGES/Routing.png" width="400" />  <img src="https://github.com/KushalVenX/BioAmp-Ard-PCBD/blob/main/IMAGES/3Dview.png" width="310" />
 
 
 This repository contains a PCB design for the "BioAmp-EXG-Pill" from Upside Down Labs, presented as an open-source hardware project. The design has been adapted and routed on an Arduino template.
