@@ -15,14 +15,20 @@ The repository features a PCB design that is a routed adaptation of the BioAmp-E
 
 The repository is intended for educational purposes and learning. It offers an opportunity to:
 
--Explore PCB Design: Understand and study the layout and routing of a real-world PCB.
--Experiment: Modify the design for personal projects or educational exercises.
--Teach: Use this routed version as a teaching tool for PCB design concepts.
+-**Explore PCB Design**: Understand and study the layout and routing of a real-world PCB.
+
+-**Experiment**: Modify the design for personal projects or educational exercises.
+
+-**Teach**: Use this routed version as a teaching tool for PCB design concepts.
 
 ## Original Schematic Credits:
 
+**UPSIDE DOWN LABS**
+
 website: https://upsidedownlabs.tech/
+
 Store: https://store.upsidedownlabs.tech/
+
 github: https://github.com/upsidedownlabs
 
 ## Arduino Template credits:
